@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Welcome!"
 excerpt:
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# Education
+## Education
 
 * Ph.D in Computer Science, [University of Toronto](https://web.cs.toronto.edu/), Canada, Sep 2022 - present
   * Working on Computational Social Science with Prof. [Ashton Anderson](https://www.cs.toronto.edu/~ashton/), May 2023 - Present
@@ -17,39 +17,39 @@ redirect_from:
   * Worked on Knowledge Representation Learning and Neuro-Symbolic Reasoning with Prof. [Xiangliang Zhang](https://engineering.nd.edu/faculty/xiangliang-zhang/) and Prof. [Robert Hoehndorf](https://leechuck.de/)
 * B.S. in Electrical Engineering, [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), China, Sep 2016 - Jun 2020
 
-# News
+## News
 
 * Aug 2023: I was invited to serve in the program committee of AAAI 2024
-* Aug 2023: I was invited to serve as a reviewer for the ACM Transactions on Information Systems (TOIS)
-* Jun 2023: One paper is accepted by ISWC 2023
-* May 2023: One paper is accepted by ACL 2023
-* Apr 2023: Two papars are accepted by SIGIR 2023
-* Mar 2023: I was invited to serve as a reviewer for the IEEE Transactions on Knowledge and Data Engineering (TKDE)
-* Nov 2022: One paper is accepted by Information Processing & Management (IP&M)
-* Jun 2022: One paper is accepted by ECML-PKDD 2022
-* Apr 2022: One paper is accepted by IJCAI 2022
-* Oct 2021: One paper is acccepted by WSDM 2022
-* May 2020: One paper is accepted by KDD 2020
+* Aug 2023: I was invited to review for the ACM Transactions on Information Systems (TOIS)
+* Jun 2023: One paper was accepted by ISWC 2023
+* May 2023: One paper was accepted by ACL 2023
+* Apr 2023: Two papars were accepted by SIGIR 2023
+* Mar 2023: I was invited to review for the IEEE Transactions on Knowledge and Data Engineering (TKDE)
+* Nov 2022: One paper was accepted by Information Processing and Management (IP&M)
+* Aug 2022: I was invited to review for Information Processing and Management (IP&M)
+* Jun 2022: One paper was accepted by ECML-PKDD 2022
+* Apr 2022: One paper was accepted by IJCAI 2022
+* Oct 2021: One paper was acccepted by WSDM 2022
+* May 2020: One paper was accepted by KDD 2020
 
-# Work experience
+## Work experience
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Intern, L3S Research Center, Hannover, Germany, Jun 2022 - Aug 2022
+  * Worked on Neuro-Symbolic Reasoning and Bioinformatics with Prof. [Robert Hoehndorf](https://leechuck.de/) and Prof. [Maria-Esther Vidal](https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/scientific-data-management/mitarbeiterinnen-und-mitarbeiter/maria-esther-vidal)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Intern, Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China, Jul 2020 - Jan 2021
+  * Worked on Transfer Learning and Recommender Systems with Dr. [Yongchun Zhu](https://easezyc.github.io/) and Prof. [Fuzhen Zhuang](https://fuzhenzhuang.github.io/) 
 
-# Professional Service
+* Research Intern, Baidu Research, Beijing, China, Oct 2019 - Jun 2020
+  * Worked on City Computing and User Modeling with Dr. [Jingbo Zhou](https://zhoujingbo.github.io/) and Prof. [Hui Xiong](http://datamining.rutgers.edu/) at Business Intelligence Lab
 
-* Reviewer: ACM Transactions on Information Systems (TOIS), IEEE Transactions on Knowledge and Data Engineering (TKDE), AAAI 2024, IJCLR-NeSy 2022
+* Visiting Student, University of Washington, Seattle, United States, Jun 2018 - Aug 2018
+
+## Professional Service
+
+* Reviewer: ACM Transactions on Information Systems (TOIS), IEEE Transactions on Knowledge and Data Engineering (TKDE), Information Processing and Management (IP&M), AAAI 2024, IJCLR-NeSy 2022
 * Teaching Assistant: Introduction to Computer Programming, University of Toronto, 2022
 * Teaching Assistant: Introduction to Artificial Intelligence, University of Toronto, 2022
-
-
 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
