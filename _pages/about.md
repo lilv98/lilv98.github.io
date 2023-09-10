@@ -1,7 +1,7 @@
 ---
 permalink: /
-title:
-excerpt: "About"
+title: "About"
+excerpt:
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,9 +11,12 @@ redirect_from:
 Education
 ======
 
-* Ph.D in Computer Science, University of Toronto, Canada, 2022-present
-* M.S. in Computer Science, King Abdullah University of Science and Technology, Saudi Arabia, 2021-2022
-* B.S. in Electrical Engineering, Beijing University of Posts and Telecommunications, China, 2016-2020
+* Ph.D in Computer Science, University of Toronto, Canada, Sep 2022 - present
+  * Working on Computational Social Science with [Ashton Anderson](https://www.cs.toronto.edu/~ashton/), May 2023 - Present
+  * Worked on Knowlegde Graphs and Recommendations with [Scott Sanner](https://www.mie.utoronto.ca/faculty_staff/sanner/), Sep 2022 - Apr 2023
+* M.S. in Computer Science, King Abdullah University of Science and Technology, Saudi Arabia, Jan 2021 - May 2022
+  * Worked on Knowledge Representation Learning and Neuro-Symbolic Reasoning with [Xiangliang Zhang](https://engineering.nd.edu/faculty/xiangliang-zhang/) and [Robert Hoehndorf](https://leechuck.de/)
+* B.S. in Electrical Engineering, Beijing University of Posts and Telecommunications, China, Sep 2016 - Jun 2020
 
 Work experience
 ======
@@ -27,10 +30,11 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-Teaching
+Professional Service
 =====
-* Teaching Assistant, Introduction to Computer Programming, University of Toronto, 2022
-* Teaching Assistant, CSC 108 Introduction to Artificial Intelligence, University of Toronto, 2022
+* Reviewer: ACM Transactions on Information Systems (TOIS), IEEE Transactions on Knowledge and Data Engineering (TKDE), AAAI 2024, IJCLR-NeSy 2022
+* Teaching Assistant: Introduction to Computer Programming, University of Toronto, 2022
+* Teaching Assistant: Introduction to Artificial Intelligence, University of Toronto, 2022
 
 
 
