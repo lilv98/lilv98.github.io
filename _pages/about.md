@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+Hello everyone! I'm a second year Ph.D student at University of Toronto working with Prof. [Ashton Anderson](https://www.cs.toronto.edu/~ashton/). My research interests broadly lie in machine learning and data mining, in particular data-driven social science, knowledge representation learning and reasoning, neural-symbolic reasoning and recommendation systems. Besides research, my passion for sports has always been an integral part of who I am, with basketball, badminton, and billiards ranking high on my list of favorites. Always eager to connect with fellow sports enthusiasts and academicians, I look forward to getting to know you all!
+
+
 ## Education
 
 * Ph.D in Computer Science, [University of Toronto](https://web.cs.toronto.edu/), Canada, Sep 2022 - present
