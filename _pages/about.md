@@ -8,18 +8,31 @@ redirect_from:
   - /about.html
 ---
 
-Education
-======
+# Education
 
-* Ph.D in Computer Science, University of Toronto, Canada, Sep 2022 - present
-  * Working on Computational Social Science with [Ashton Anderson](https://www.cs.toronto.edu/~ashton/), May 2023 - Present
-  * Worked on Knowlegde Graphs and Recommendations with [Scott Sanner](https://www.mie.utoronto.ca/faculty_staff/sanner/), Sep 2022 - Apr 2023
-* M.S. in Computer Science, King Abdullah University of Science and Technology, Saudi Arabia, Jan 2021 - May 2022
-  * Worked on Knowledge Representation Learning and Neuro-Symbolic Reasoning with [Xiangliang Zhang](https://engineering.nd.edu/faculty/xiangliang-zhang/) and [Robert Hoehndorf](https://leechuck.de/)
-* B.S. in Electrical Engineering, Beijing University of Posts and Telecommunications, China, Sep 2016 - Jun 2020
+* Ph.D in Computer Science, [University of Toronto](https://web.cs.toronto.edu/), Canada, Sep 2022 - present
+  * Working on Computational Social Science with Prof. [Ashton Anderson](https://www.cs.toronto.edu/~ashton/), May 2023 - Present
+  * Worked on Knowlegde Graphs and Recommendations with Prof. [Scott Sanner](https://www.mie.utoronto.ca/faculty_staff/sanner/), Sep 2022 - Apr 2023
+* M.S. in Computer Science, [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/en/), Saudi Arabia, Jan 2021 - May 2022
+  * Worked on Knowledge Representation Learning and Neuro-Symbolic Reasoning with Prof. [Xiangliang Zhang](https://engineering.nd.edu/faculty/xiangliang-zhang/) and Prof. [Robert Hoehndorf](https://leechuck.de/)
+* B.S. in Electrical Engineering, [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), China, Sep 2016 - Jun 2020
 
-Work experience
-======
+# News
+
+* Aug 2023: I was invited to serve in the program committee of AAAI 2024
+* Aug 2023: I was invited to serve as a reviewer for the ACM Transactions on Information Systems (TOIS)
+* Jun 2023: One paper is accepted by ISWC 2023
+* May 2023: One paper is accepted by ACL 2023
+* Apr 2023: Two papars are accepted by SIGIR 2023
+* Mar 2023: I was invited to serve as a reviewer for the IEEE Transactions on Knowledge and Data Engineering (TKDE)
+* Nov 2022: One paper is accepted by Information Processing & Management (IP&M)
+* Jun 2022: One paper is accepted by ECML-PKDD 2022
+* Apr 2022: One paper is accepted by IJCAI 2022
+* Oct 2021: One paper is acccepted by WSDM 2022
+* May 2020: One paper is accepted by KDD 2020
+
+# Work experience
+
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
@@ -30,8 +43,8 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-Professional Service
-=====
+# Professional Service
+
 * Reviewer: ACM Transactions on Information Systems (TOIS), IEEE Transactions on Knowledge and Data Engineering (TKDE), AAAI 2024, IJCLR-NeSy 2022
 * Teaching Assistant: Introduction to Computer Programming, University of Toronto, 2022
 * Teaching Assistant: Introduction to Artificial Intelligence, University of Toronto, 2022
