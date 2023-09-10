@@ -8,17 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello everyone! I'm a second year Ph.D student at University of Toronto working with Prof. [Ashton Anderson](https://www.cs.toronto.edu/~ashton/). My research interests broadly lie in machine learning and data mining, in particular data-driven social science, knowledge representation learning and reasoning, neural-symbolic reasoning and recommendation systems. Besides research, my passion for sports has always been an integral part of who I am, with basketball, badminton, and billiards ranking high on my list of favorites. Always eager to connect with fellow sports enthusiasts and academicians, I look forward to getting to know you all!
-
-
-## Education
-
-* Ph.D in Computer Science, [University of Toronto](https://web.cs.toronto.edu/), Canada, Sep 2022 - present
-  * Working on Computational Social Science with Prof. [Ashton Anderson](https://www.cs.toronto.edu/~ashton/), May 2023 - Present
-  * Worked on Knowlegde Graphs and Recommendations with Prof. [Scott Sanner](https://www.mie.utoronto.ca/faculty_staff/sanner/), Sep 2022 - Apr 2023
-* M.S. in Computer Science, [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/en/), Saudi Arabia, Jan 2021 - May 2022
-  * Worked on Knowledge Representation Learning and Neuro-Symbolic Reasoning with Prof. [Xiangliang Zhang](https://engineering.nd.edu/faculty/xiangliang-zhang/) and Prof. [Robert Hoehndorf](https://leechuck.de/)
-* B.S. in Electrical Engineering, [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), China, Sep 2016 - Jun 2020
+Hello everyone! I'm a second year Ph.D student at University of Toronto working with Prof. [Ashton Anderson](https://www.cs.toronto.edu/~ashton/). My research interests broadly lie in machine learning and data mining, in particular data-driven social science, knowledge representation learning and reasoning, neural-symbolic reasoning, and recommendation systems. Besides research, my passion for sports has always been an integral part of who I am, with basketball, badminton, and billiards ranking high on my list of favorites. Always eager to connect with fellow sports enthusiasts and academicians, I look forward to getting to know you all!
 
 ## News
 
@@ -34,6 +24,15 @@ Hello everyone! I'm a second year Ph.D student at University of Toronto working 
 * Apr 2022: One paper was accepted by IJCAI 2022
 * Oct 2021: One paper was acccepted by WSDM 2022
 * May 2020: One paper was accepted by KDD 2020
+
+## Education
+
+* Ph.D in Computer Science, [University of Toronto](https://web.cs.toronto.edu/), Canada, Sep 2022 - present
+  * Working on Computational Social Science with Prof. [Ashton Anderson](https://www.cs.toronto.edu/~ashton/), May 2023 - Present
+  * Worked on Knowlegde Graphs and Recommendations with Prof. [Scott Sanner](https://www.mie.utoronto.ca/faculty_staff/sanner/), Sep 2022 - Apr 2023
+* M.S. in Computer Science, [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/en/), Saudi Arabia, Jan 2021 - May 2022
+  * Worked on Knowledge Representation Learning and Neuro-Symbolic Reasoning with Prof. [Xiangliang Zhang](https://engineering.nd.edu/faculty/xiangliang-zhang/) and Prof. [Robert Hoehndorf](https://leechuck.de/)
+* B.S. in Electrical Engineering, [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), China, Sep 2016 - Jun 2020
 
 ## Work experience
 
