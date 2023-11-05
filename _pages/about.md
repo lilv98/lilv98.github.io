@@ -12,6 +12,9 @@ Hello everyone! I'm a second year Ph.D student at University of Toronto working 
 
 ## News
 
+* Oct 2023: I was invited to review for ACM TheWebConf 2024
+* Sep 2023: I was invited to review for the ACM Transactions on Knowledge Discovery from Data (TKDD)
+* Sep 2023: I received the ISWC 2023 Travel Award, see you in Athens!
 * Aug 2023: I was invited to serve in the program committee of AAAI 2024
 * Aug 2023: I was invited to review for the ACM Transactions on Information Systems (TOIS)
 * Jun 2023: One paper was accepted by ISWC 2023
@@ -49,7 +52,7 @@ Hello everyone! I'm a second year Ph.D student at University of Toronto working 
 
 ## Professional Service
 
-* Reviewer: ACM Transactions on Information Systems (TOIS), IEEE Transactions on Knowledge and Data Engineering (TKDE), Information Processing and Management (IP&M), AAAI 2024, IJCLR-NeSy 2022
+* Reviewer: ACM Transactions on Information Systems (TOIS), ACM Transactions on Knowledge Discovery from Data (TKDD), IEEE Transactions on Knowledge and Data Engineering (TKDE), Information Processing and Management (IP&M), AAAI 2024, TheWebConf 2024, IJCLR-NeSy 2022
 * Teaching Assistant: Introduction to Computer Programming, University of Toronto, 2022
 * Teaching Assistant: Introduction to Artificial Intelligence, University of Toronto, 2022
 
