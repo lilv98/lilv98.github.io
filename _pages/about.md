@@ -18,7 +18,7 @@ Hello everyone! I'm a second year Ph.D student at University of Toronto working 
 * Aug 2023: I was invited to serve in the program committee of AAAI 2024
 * Aug 2023: I was invited to review for the ACM Transactions on Information Systems (TOIS)
 * Jun 2023: One paper was accepted by ISWC 2023
-* May 2023: One paper was accepted by ACL Findings 2023
+* May 2023: One paper was accepted by ACL-Findings 2023
 * Apr 2023: Two papars were accepted by SIGIR 2023
 * Mar 2023: I was invited to review for the IEEE Transactions on Knowledge and Data Engineering (TKDE)
 * Nov 2022: One paper was accepted by Information Processing and Management (IP&M)
