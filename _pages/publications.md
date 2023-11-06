@@ -4,10 +4,12 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Griffin Floto, Mohammad Mahdi Abdollah Pour, Parsa Farinneya, Zhenwei Tang, Ali Pesaranghader, Manasa Bharadwaj, and Scott Sanner. 2023. DiffuDetox: A Mixed Diffusion Model for Text Detoxification. In Findings of the Association for Computational Linguistics: ACL 2023, pages 7566–7574, Toronto, Canada. Association for Computational Linguistics.
 
-[LogicRec: Recommendation with Users' Logical Requirements](https://dl.acm.org/doi/10.1145/3539618.3592012) Z Tang, G Floto, A Toroghi, S Pei, X Zhang, S Sanner, (SIGIR 2023)
+[DiffuDetox: A Mixed Diffusion Model for Text Detoxification](https://aclanthology.org/2023.findings-acl.478/)(ACL-Findings 2023)
+G Floto, MMA Pour, P Farinneya, **Z Tang**, A Pesaranghader, M Bharadwaj, S Sanner
 
+[LogicRec: Recommendation with Users' Logical Requirements](https://dl.acm.org/doi/10.1145/3539618.3592012)(SIGIR 2023)
+**Z Tang**, G Floto, A Toroghi, S Pei, X Zhang, S Sanner
 
 
 <!-- {% if author.googlescholar %}
