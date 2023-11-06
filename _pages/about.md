@@ -52,7 +52,14 @@ Hello everyone! I'm a second year Ph.D student at University of Toronto working 
 
 ## Professional Service
 
-* Reviewer: ACM Transactions on Information Systems (TOIS), ACM Transactions on Knowledge Discovery from Data (TKDD), IEEE Transactions on Knowledge and Data Engineering (TKDE), Information Processing and Management (IP&M), AAAI 2024, TheWebConf 2024, IJCLR-NeSy 2022
+* Reviewer: 
+  ACM Transactions on Information Systems (TOIS) \
+  ACM Transactions on Knowledge Discovery from Data (TKDD) \
+  IEEE Transactions on Knowledge and Data Engineering (TKDE) \
+  Information Processing and Management (IP&M) \
+  AAAI 2024 \
+  TheWebConf 2024 \
+  IJCLR-NeSy 2022
 * Teaching Assistant: Introduction to Computer Programming, University of Toronto, 2022
 * Teaching Assistant: Introduction to Artificial Intelligence, University of Toronto, 2022
 
