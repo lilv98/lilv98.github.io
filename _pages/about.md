@@ -12,6 +12,7 @@ Hello everyone! I'm a second year Ph.D student at University of Toronto working 
 
 ## News
 
+* Nov 2023: [LQAC](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_28) received an Honorable Mention for the Best Paper Award at ISWC 2023
 * Oct 2023: I was invited to review for ACM TheWebConf 2024
 * Sep 2023: I was invited to review for the ACM Transactions on Knowledge Discovery from Data (TKDD)
 * Sep 2023: I received the ISWC 2023 Travel Award, see you in Athens!

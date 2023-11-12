@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[ISWC 23'] Neural Multi-hop Logical Query Answering with Concept-level Answers \
+[ISWC 23'] [Neural Multi-hop Logical Query Answering with Concept-level Answers](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_28) \
 **Z Tang**, S Pei, X Peng, F Zhuang, X Zhang, R Hoehndorf
 
 [ACL-Findings 23'] [DiffuDetox: A Mixed Diffusion Model for Text Detoxification](https://aclanthology.org/2023.findings-acl.478/) \
