@@ -14,7 +14,8 @@ Hello everyone! I'm a second year Ph.D student at University of Toronto working 
 
 * May 2024: I was invited to review for NeurIPS 2024
 * May 2024: One paper was accepted by ACL-Findings 2024
-* Mar 2024: One paper was accepted by ISMB 2024 and OUP Bioinformatics Journal
+* Apr 2024: Two extended abstracts were accepted by [IC2S2 2024](https://ic2s2-2024.org/), see you in Philly!
+* Mar 2024: One paper was accepted by [ISMB 2024](https://www.iscb.org/ismb2024/home) and [Bioinformatics](https://academic.oup.com/bioinformatics)
 * Jan 2024: I was invited to review for KDD 2024
 * Nov 2023: [LQAC](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_28) received an Honorable Mention for the Best Paper Award at ISWC 2023
 * Oct 2023: I was invited to review for TheWebConf 2024
@@ -26,8 +27,8 @@ Hello everyone! I'm a second year Ph.D student at University of Toronto working 
 * May 2023: One paper was accepted by ACL-Findings 2023
 * Apr 2023: Two papars were accepted by SIGIR 2023
 * Mar 2023: I was invited to review for the IEEE Transactions on Knowledge and Data Engineering (TKDE)
-* Nov 2022: One paper was accepted by Information Processing and Management (IP&M)
-* Aug 2022: I was invited to review for Information Processing and Management (IP&M)
+* Nov 2022: One paper was accepted by Elsevier Information Processing and Management (IP&M)
+* Aug 2022: I was invited to review for Elsevier Information Processing and Management (IP&M)
 * Jun 2022: One paper was accepted by ECML-PKDD 2022
 * Apr 2022: One paper was accepted by IJCAI 2022
 * Oct 2021: One paper was acccepted by WSDM 2022
@@ -64,7 +65,7 @@ Hello everyone! I'm a second year Ph.D student at University of Toronto working 
   IEEE Transactions on Knowledge and Data Engineering (TKDE) \
   Elsevier Information Processing and Management (IP&M) \
   Elsevier Information Fusion \
-  Elsevier Information Systems \
+  Elsevier Information Systems
 * **Teaching**: \
   Introduction to Computer Programming, University of Toronto, 2022 Fall \
   Introduction to Artificial Intelligence, University of Toronto, 2023 Winter
