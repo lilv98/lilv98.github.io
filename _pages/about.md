@@ -12,8 +12,12 @@ Hello everyone! I'm a second year Ph.D student at University of Toronto working 
 
 ## News
 
+* May 2024: I was invited to review for NeurIPS 2024
+* May 2024: One paper was accepted by ACL-Findings 2024
+* Mar 2024: One paper was accepted by ISMB 2024 and OUP Bioinformatics Journal
+* Jan 2024: I was invited to review for KDD 2024
 * Nov 2023: [LQAC](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_28) received an Honorable Mention for the Best Paper Award at ISWC 2023
-* Oct 2023: I was invited to review for ACM TheWebConf 2024
+* Oct 2023: I was invited to review for TheWebConf 2024
 * Sep 2023: I was invited to review for the ACM Transactions on Knowledge Discovery from Data (TKDD)
 * Sep 2023: I received the ISWC 2023 Travel Award, see you in Athens!
 * Aug 2023: I was invited to serve in the program committee of AAAI 2024
@@ -32,7 +36,7 @@ Hello everyone! I'm a second year Ph.D student at University of Toronto working 
 ## Education
 
 * Ph.D in Computer Science, [University of Toronto](https://web.cs.toronto.edu/), Canada, Sep 2022 - present
-  * Working on Computational Social Science with Prof. [Ashton Anderson](https://www.cs.toronto.edu/~ashton/), May 2023 - Present
+  * Working on Computational Social Science with Prof. [Ashton Anderson](https://www.cs.toronto.edu/~ashton/), Apr 2023 - Present
   * Worked on Knowlegde Graphs and Recommendations with Prof. [Scott Sanner](https://www.mie.utoronto.ca/faculty_staff/sanner/), Sep 2022 - Apr 2023
 * M.S. in Computer Science, [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/en/), Saudi Arabia, Jan 2021 - May 2022
   * Worked on Knowledge Representation Learning and Neuro-Symbolic Reasoning with Prof. [Xiangliang Zhang](https://engineering.nd.edu/faculty/xiangliang-zhang/) and Prof. [Robert Hoehndorf](https://leechuck.de/)
@@ -53,15 +57,40 @@ Hello everyone! I'm a second year Ph.D student at University of Toronto working 
 
 ## Professional Service
 
-* **Reviewer**: \
+* **Reviewer/PC Member**: \
+  NeurIPS 2024, KDD 2024, WWW 2024, AAAI 2024, IJCAI 2024, IJCLR-NeSy 2022 \
   ACM Transactions on Information Systems (TOIS) \
   ACM Transactions on Knowledge Discovery from Data (TKDD) \
   IEEE Transactions on Knowledge and Data Engineering (TKDE) \
-  Information Processing and Management (IP&M) \
-  AAAI 2024, TheWebConf 2024, IJCLR-NeSy 2022
-* **Teaching Assistant**: Introduction to Computer Programming, University of Toronto, 2022
-* **Teaching Assistant**: Introduction to Artificial Intelligence, University of Toronto, 2022
+  Elsevier Information Processing and Management (IP&M) \
+  Elsevier Information Fusion \
+  Elsevier Information Systems \
+* **Teaching**: \
+  Introduction to Computer Programming, University of Toronto, 2022 Fall \
+  Introduction to Artificial Intelligence, University of Toronto, 2023 Winter
 
+
+<!-- \begin{rSection}{Professional Service}
+
+\textbf{[Reviewer / PC Member] }
+
+\quad Conferences:
+
+\quad\quad NeurIPS 2024, KDD 2024, WWW 2024, AAAI 2024, IJCAI 2024, IJCLR-NeSy 2022
+
+\quad Journals:
+
+\quad\quad ACM Transactions on Information Systems (TOIS)
+
+\quad\quad IEEE Transactions on Knowledge and Data Engineering (TKDE)
+
+\quad\quad ACM Transactions on Knowledge Discovery from Data (TKDD)
+
+\quad\quad Elsevier Information Processing and Management
+
+\quad\quad Elsevier Information Fusion
+
+\quad\quad Elsevier Information Systems -->
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 

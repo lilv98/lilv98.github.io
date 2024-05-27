@@ -7,11 +7,9 @@ author_profile: true
 
 
 [ACL-Findings 2024] [SPIN: Sparsifying and Integrating Internal Neurons in Large Language Models for Text Classification](https://arxiv.org/abs/2311.15983) \
-
 D Jiao, Y Liu, **Z Tang**, D Matter, J Pfeffer, A Anderson
 
 [ISMB 2024] [Predicting Protein Functions Using Positive-Unlabeled Ranking with Ontology-based Priors](https://www.biorxiv.org/content/10.1101/2024.01.28.577662v1.abstract) \
-
 F Zhapa-Camacho, **Z Tang**, M Kulmanov, R Hoehndorf
 
 [ISWC 2023] (**Best Paper Candidate**) [Neural Multi-hop Logical Query Answering with Concept-level Answers](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_28) \
