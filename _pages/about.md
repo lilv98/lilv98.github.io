@@ -8,23 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-Hello everyone! I'm a second year Ph.D student at University of Toronto working with Prof. [Ashton Anderson](https://www.cs.toronto.edu/~ashton/). My research interests broadly lie in machine learning and data mining, in particular data-driven social science, knowledge representation learning and reasoning, neural-symbolic reasoning, and recommendation systems. Besides research, my passion for sports has always been an integral part of who I am, with basketball, badminton, and billiards ranking high on my list of favorites. Always eager to connect with fellow sports enthusiasts and academicians, I look forward to getting to know you all!
+Hello everyone! I'm a second year Ph.D student at University of Toronto working with Prof. [Ashton Anderson](https://www.cs.toronto.edu/~ashton/). My research interests broadly lie in machine learning and data mining, in particular data-driven social science, knowledge representation learning and reasoning, neural-symbolic reasoning, and recommender systems. Besides research, my passion for sports has always been an integral part of who I am, with basketball, badminton, and billiards ranking high on my list of favorites. Always eager to connect with fellow sports enthusiasts and academicians, I look forward to getting to know you all!
 
 ## News
 
+* Aug 2024: I was invited to review for TheWebConf (WWW) 2025
+* Jul 2024: I was invited to serve in the program committee of AAAI 2025
+* Jul 2024: I was invited to review for KDD 2025
 * May 2024: I was invited to review for NeurIPS 2024
-* May 2024: One paper was accepted by ACL-Findings 2024
+* May 2024: One paper was accepted by ACL 2024 Findings
 * Apr 2024: Two extended abstracts were accepted by [IC2S2 2024](https://ic2s2-2024.org/), see you in Philly!
 * Mar 2024: One paper was accepted by [ISMB 2024](https://www.iscb.org/ismb2024/home) and [Bioinformatics](https://academic.oup.com/bioinformatics)
 * Jan 2024: I was invited to review for KDD 2024
 * Nov 2023: [LQAC](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_28) received an Honorable Mention for the Best Paper Award at ISWC 2023
-* Oct 2023: I was invited to review for TheWebConf 2024
+* Oct 2023: I was invited to review for TheWebConf (WWW) 2024
 * Sep 2023: I was invited to review for the ACM Transactions on Knowledge Discovery from Data (TKDD)
 * Sep 2023: I received the ISWC 2023 Travel Award, see you in Athens!
 * Aug 2023: I was invited to serve in the program committee of AAAI 2024
 * Aug 2023: I was invited to review for the ACM Transactions on Information Systems (TOIS)
 * Jun 2023: One paper was accepted by ISWC 2023
-* May 2023: One paper was accepted by ACL-Findings 2023
+* May 2023: One paper was accepted by ACL 2023 Findings
 * Apr 2023: Two papars were accepted by SIGIR 2023
 * Mar 2023: I was invited to review for the IEEE Transactions on Knowledge and Data Engineering (TKDE)
 * Nov 2022: One paper was accepted by Elsevier Information Processing and Management (IP&M)
@@ -43,7 +46,9 @@ Hello everyone! I'm a second year Ph.D student at University of Toronto working 
   * Worked on Knowledge Representation Learning and Neuro-Symbolic Reasoning with Prof. [Xiangliang Zhang](https://engineering.nd.edu/faculty/xiangliang-zhang/) and Prof. [Robert Hoehndorf](https://leechuck.de/)
 * B.S. in Electrical Engineering, [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), China, Sep 2016 - Jun 2020
 
-## Work experience
+## Experience
+
+* Faculty Affiliated Researcher, Vector Institute, Toronto, Ontario, Canada, Nov 2022 - Present
 
 * Research Intern, L3S Research Center, Hannover, Germany, Jun 2022 - Aug 2022
   * Worked on Neuro-Symbolic Reasoning and Bioinformatics with Prof. [Robert Hoehndorf](https://leechuck.de/) and Prof. [Maria-Esther Vidal](https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/scientific-data-management/mitarbeiterinnen-und-mitarbeiter/maria-esther-vidal)
@@ -59,7 +64,11 @@ Hello everyone! I'm a second year Ph.D student at University of Toronto working 
 ## Professional Service
 
 * **Reviewer/PC Member**: \
-  NeurIPS 2024, KDD 2024, WWW 2024, AAAI 2024, IJCAI 2024, IJCLR-NeSy 2022 \
+  NeurIPS 2024, \
+  KDD 2024, 2025, \
+  WWW 2024, 2025, \
+  AAAI 2024, 2025, \
+  IJCAI 2024, IJCLR-NeSy 2022 \
   ACM Transactions on Information Systems (TOIS) \
   ACM Transactions on Knowledge Discovery from Data (TKDD) \
   IEEE Transactions on Knowledge and Data Engineering (TKDE) \

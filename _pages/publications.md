@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-[ACL-Findings 2024] [SPIN: Sparsifying and Integrating Internal Neurons in Large Language Models for Text Classification](https://arxiv.org/abs/2311.15983) \
+[ACL 2024 Findings] [SPIN: Sparsifying and Integrating Internal Neurons in Large Language Models for Text Classification](https://aclanthology.org/2024.findings-acl.277/) \
 D Jiao, Y Liu, **Z Tang**, D Matter, J Pfeffer, A Anderson
 
 [ISMB 2024] [Predicting Protein Functions Using Positive-Unlabeled Ranking with Ontology-based Priors](https://www.biorxiv.org/content/10.1101/2024.01.28.577662v1.abstract) \
@@ -15,7 +15,7 @@ F Zhapa-Camacho, **Z Tang**, M Kulmanov, R Hoehndorf
 [ISWC 2023] (**Best Paper Candidate**) [Neural Multi-hop Logical Query Answering with Concept-level Answers](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_28) \
 **Z Tang**, S Pei, X Peng, F Zhuang, X Zhang, R Hoehndorf
 
-[ACL-Findings 2023] [DiffuDetox: A Mixed Diffusion Model for Text Detoxification](https://aclanthology.org/2023.findings-acl.478/) \
+[ACL 2023 Findings] [DiffuDetox: A Mixed Diffusion Model for Text Detoxification](https://aclanthology.org/2023.findings-acl.478/) \
 G Floto, MMA Pour, P Farinneya, **Z Tang**, A Pesaranghader, M Bharadwaj, S Sanner
 
 [SIGIR 2023] [LogicRec: Recommendation with Users' Logical Requirements](https://dl.acm.org/doi/10.1145/3539618.3592012) \
