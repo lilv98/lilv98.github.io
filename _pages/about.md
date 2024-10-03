@@ -66,6 +66,8 @@ Hello everyone! I'm a second year Ph.D student at University of Toronto working 
 ## Professional Service
 
 * **Reviewer/PC Member**: \
+  AISTATS 2025, \
+  ICLR 2025, \
   NeurIPS 2024, \
   KDD 2024, 2025, \
   WWW 2024, 2025, \
