@@ -69,10 +69,11 @@ Hello everyone! I'm a second year Ph.D student at University of Toronto working 
   AISTATS 2025, \
   ICLR 2025, \
   NeurIPS 2024, \
-  KDD 2024, 2025, \
-  WWW 2024, 2025, \
-  AAAI 2024, 2025, \
-  IJCAI 2024, IJCLR-NeSy 2022 \
+  KDD 2024/2025, \
+  WWW 2024/2025, \
+  AAAI 2024/2025, \
+  IJCAI 2024, \
+  IJCLR-NeSy 2022 \
   ACM Transactions on Information Systems (TOIS) \
   ACM Transactions on Knowledge Discovery from Data (TKDD) \
   IEEE Transactions on Knowledge and Data Engineering (TKDE) \
