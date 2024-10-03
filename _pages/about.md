@@ -12,6 +12,8 @@ Hello everyone! I'm a second year Ph.D student at University of Toronto working 
 
 ## News
 
+* Oct 2024: I was invited to review for ICLR 2025 and AISTATS 2025
+* Sep 2024: **Maia-2: A Unified Model for Human-AI Alignment in Chess** was accepted by NeurIPS 2024 \[[preprint](https://arxiv.org/abs/2409.20553)\], try it out on Lichess (join A/B test) @ \[[Lichess Bot](https://lichess.org/@/maia9)\], see you in Vancouver!
 * Aug 2024: I was invited to review for TheWebConf (WWW) 2025
 * Jul 2024: I was invited to serve in the program committee of AAAI 2025
 * Jul 2024: I was invited to review for KDD 2025
