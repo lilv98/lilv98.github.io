@@ -4,7 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+[NeurIPS 2024] [Maia-2: A Unified Model for Human-AI Alignment in Chess](https://arxiv.org/abs/2409.20553) \
+**Z Tang**, D Jiao, R Mcllroy-Young, J Kleinberg, S Sen, A Anderson
 
 [ACL 2024 Findings] [SPIN: Sparsifying and Integrating Internal Neurons in Large Language Models for Text Classification](https://aclanthology.org/2024.findings-acl.277/) \
 D Jiao, Y Liu, **Z Tang**, D Matter, J Pfeffer, A Anderson
