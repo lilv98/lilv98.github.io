@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hello everyone! I'm a second year Ph.D student at University of Toronto working with Prof. [Ashton Anderson](https://www.cs.toronto.edu/~ashton/). My research interests broadly lie in machine learning and data mining, in particular data-driven social science, knowledge representation learning and reasoning, neural-symbolic reasoning, and recommender systems. Besides research, my passion for sports has always been an integral part of who I am, with basketball, badminton, and billiards ranking high on my list of favorites. Always eager to connect with fellow sports enthusiasts and academicians, I look forward to getting to know you all!
+Hello everyone! I'm a second year Ph.D student at University of Toronto working with Prof. [Ashton Anderson](https://www.cs.toronto.edu/~ashton/). My research interests broadly lie in machine learning and data mining, in particular data-driven social science, human behavior modeling, knowledge representation learning and reasoning, and recommender systems. Besides research, my passion for sports has always been an integral part of who I am, with basketball, badminton, and billiards ranking high on my list of favorites. Always eager to connect with fellow sports enthusiasts and academicians, I look forward to getting to know you all!
 
 ## News
 
 * Oct 2024: I was invited to review for ICLR 2025 and AISTATS 2025
 * Sep 2024: **Maia-2: A Unified Model for Human-AI Alignment in Chess** was accepted by NeurIPS 2024 \[[preprint](https://arxiv.org/abs/2409.20553)\], try it out on Lichess (join A/B test) @ \[[Lichess Bot](https://lichess.org/@/maia9)\], see you in Vancouver!
 * Aug 2024: I was invited to review for TheWebConf (WWW) 2025
+* Jul 2024: I officially formed my PhD supervisory committee, which includes Prof. [Ashton Anderson](https://www.cs.toronto.edu/~ashton/) as my supervisor, along with Prof. [Chris Maddision](https://www.cs.toronto.edu/~cmaddis/) and Prof. [Colin Raffel](https://colinraffel.com/) as committee members.
 * Jul 2024: I was invited to serve in the program committee of AAAI 2025
 * Jul 2024: I was invited to review for KDD 2025
 * May 2024: I was invited to review for NeurIPS 2024
@@ -43,7 +44,7 @@ Hello everyone! I'm a second year Ph.D student at University of Toronto working 
 
 * Ph.D in Computer Science, [University of Toronto](https://web.cs.toronto.edu/), Canada, Sep 2022 - present
   * Working on Computational Social Science with Prof. [Ashton Anderson](https://www.cs.toronto.edu/~ashton/), Apr 2023 - Present
-  * Worked on Knowlegde Graphs and Recommendations with Prof. [Scott Sanner](https://www.mie.utoronto.ca/faculty_staff/sanner/), Sep 2022 - Apr 2023
+  * Worked on Knowledge Graphs and Recommendations with Prof. [Scott Sanner](https://www.mie.utoronto.ca/faculty_staff/sanner/), Sep 2022 - Apr 2023
 * M.S. in Computer Science, [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/en/), Saudi Arabia, Jan 2021 - May 2022
   * Worked on Knowledge Representation Learning and Neuro-Symbolic Reasoning with Prof. [Xiangliang Zhang](https://engineering.nd.edu/faculty/xiangliang-zhang/) and Prof. [Robert Hoehndorf](https://leechuck.de/)
 * B.S. in Electrical Engineering, [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), China, Sep 2016 - Jun 2020
