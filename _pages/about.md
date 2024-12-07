@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hello everyone! I'm a second year Ph.D student at University of Toronto working with Prof. [Ashton Anderson](https://www.cs.toronto.edu/~ashton/). My research interests broadly lie in machine learning and data mining, in particular data-driven social science, human behavior modeling, knowledge representation learning and reasoning, and recommender systems. Besides research, my passion for sports has always been an integral part of who I am, with basketball, badminton, and billiards ranking high on my list of favorites. Always eager to connect with fellow sports enthusiasts and academicians, I look forward to getting to know you all!
+Hello everyone! I'm a 3rd year PhD student at University of Toronto working with Prof. [Ashton Anderson](https://www.cs.toronto.edu/~ashton/). My research interests lie in machine learning and data mining, in particular human behavior modeling, knowledge representation learning, and recommender systems. Besides research, my passion for sports has always been an integral part of who I am, with basketball, badminton, and billiards ranking high on my list of favorites. Always eager to connect with fellow sports enthusiasts and academicians, I look forward to getting to know you all!
 
 ## News
-
+* Dec 2024: I passed the PhD Qualifying Exam! A huge thank you to my supervisory committee members - Prof. Ashton Anderson, Prof. Chris Maddision, and Prof. Colin Raffel.
 * Oct 2024: I was invited to review for ICLR 2025 and AISTATS 2025
-* Sep 2024: **Maia-2: A Unified Model for Human-AI Alignment in Chess** was accepted by NeurIPS 2024 \[[preprint](https://arxiv.org/abs/2409.20553)\], try it out on Lichess (join A/B test) @ \[[Lichess Bot](https://lichess.org/@/maia9)\], see you in Vancouver!
+* Sep 2024: **Maia-2: A Unified Model for Human-AI Alignment in Chess** was accepted by NeurIPS 2024 \[[preprint](https://arxiv.org/abs/2409.20553)\], try it out on Lichess (join A/B teslt) @ \[[Lichess Bot](https://lichess.org/@/maia9)\], see you in Vancouver!
 * Aug 2024: I was invited to review for TheWebConf (WWW) 2025
 * Jul 2024: I officially formed my PhD supervisory committee, which includes Prof. [Ashton Anderson](https://www.cs.toronto.edu/~ashton/) as my supervisor, along with Prof. [Chris Maddision](https://www.cs.toronto.edu/~cmaddis/) and Prof. [Colin Raffel](https://colinraffel.com/) as committee members.
 * Jul 2024: I was invited to serve in the program committee of AAAI 2025
@@ -21,7 +21,7 @@ Hello everyone! I'm a second year Ph.D student at University of Toronto working 
 * May 2024: I was invited to review for NeurIPS 2024
 * May 2024: One paper was accepted by ACL 2024 Findings
 * Apr 2024: Two extended abstracts were accepted by [IC2S2 2024](https://ic2s2-2024.org/), see you in Philly!
-* Mar 2024: One paper was accepted by [ISMB 2024](https://www.iscb.org/ismb2024/home) and [Bioinformatics](https://academic.oup.com/bioinformatics)
+* Mar 2024: One paper was accepted by [ISMB 2024](https://wwwiscb.org/ismb2024/home) and [Bioinformatics](https://academic.oup.com/bioinformatics)
 * Jan 2024: I was invited to review for KDD 2024
 * Nov 2023: [LQAC](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_28) received an Honorable Mention for the Best Paper Award at ISWC 2023
 * Oct 2023: I was invited to review for TheWebConf (WWW) 2024
@@ -43,8 +43,8 @@ Hello everyone! I'm a second year Ph.D student at University of Toronto working 
 ## Education
 
 * Ph.D in Computer Science, [University of Toronto](https://web.cs.toronto.edu/), Canada, Sep 2022 - present
-  * Working on Computational Social Science with Prof. [Ashton Anderson](https://www.cs.toronto.edu/~ashton/), Apr 2023 - Present
-  * Worked on Knowledge Graphs and Recommendations with Prof. [Scott Sanner](https://www.mie.utoronto.ca/faculty_staff/sanner/), Sep 2022 - Apr 2023
+  * Working on Human Behavior Modeling with Prof. [Ashton Anderson](https://www.cs.toronto.edu/~ashton/)
+  * Supervisory committee members: 
 * M.S. in Computer Science, [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/en/), Saudi Arabia, Jan 2021 - May 2022
   * Worked on Knowledge Representation Learning and Neuro-Symbolic Reasoning with Prof. [Xiangliang Zhang](https://engineering.nd.edu/faculty/xiangliang-zhang/) and Prof. [Robert Hoehndorf](https://leechuck.de/)
 * B.S. in Electrical Engineering, [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), China, Sep 2016 - Jun 2020
