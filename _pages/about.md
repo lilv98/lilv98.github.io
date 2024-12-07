@@ -13,7 +13,7 @@ Hello everyone! I'm a 3rd year PhD student at University of Toronto working with
 ## News
 * Dec 2024: I passed the PhD Qualifying Exam! A huge thank you to my supervisory committee members - Prof. Ashton Anderson, Prof. Chris Maddision, and Prof. Colin Raffel.
 * Oct 2024: I was invited to review for ICLR 2025 and AISTATS 2025
-* Sep 2024: **Maia-2: A Unified Model for Human-AI Alignment in Chess** was accepted by NeurIPS 2024 \[[preprint](https://arxiv.org/abs/2409.20553)\], try it out on Lichess (join A/B teslt) @ \[[Lichess Bot](https://lichess.org/@/maia9)\], see you in Vancouver!
+* Sep 2024: **Maia-2: A Unified Model for Human-AI Alignment in Chess** was accepted by NeurIPS 2024 \[[preprint](https://arxiv.org/abs/2409.20553)\], try it out on Lichess (join A/B test) @ \[[Lichess Bot](https://lichess.org/@/maia9)\], see you in Vancouver!
 * Aug 2024: I was invited to review for TheWebConf (WWW) 2025
 * Jul 2024: I officially formed my PhD supervisory committee, which includes Prof. [Ashton Anderson](https://www.cs.toronto.edu/~ashton/) as my supervisor, along with Prof. [Chris Maddision](https://www.cs.toronto.edu/~cmaddis/) and Prof. [Colin Raffel](https://colinraffel.com/) as committee members.
 * Jul 2024: I was invited to serve in the program committee of AAAI 2025
@@ -44,7 +44,6 @@ Hello everyone! I'm a 3rd year PhD student at University of Toronto working with
 
 * Ph.D in Computer Science, [University of Toronto](https://web.cs.toronto.edu/), Canada, Sep 2022 - present
   * Working on Human Behavior Modeling with Prof. [Ashton Anderson](https://www.cs.toronto.edu/~ashton/)
-  * Supervisory committee members: 
 * M.S. in Computer Science, [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/en/), Saudi Arabia, Jan 2021 - May 2022
   * Worked on Knowledge Representation Learning and Neuro-Symbolic Reasoning with Prof. [Xiangliang Zhang](https://engineering.nd.edu/faculty/xiangliang-zhang/) and Prof. [Robert Hoehndorf](https://leechuck.de/)
 * B.S. in Electrical Engineering, [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), China, Sep 2016 - Jun 2020
