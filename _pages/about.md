@@ -14,13 +14,11 @@ You'll likely find me staying active through sports and outdoor activities. I'm 
 
 ## News
 
-<input type="checkbox" id="news-toggle" checked>
-<label for="news-toggle" class="news-toggle-label"></label>
-
-<div class="news-content">
+<details open markdown="1">
+<summary>Click to expand/collapse news</summary>
 
 * Jul 2025: **SEAM: Semantically Equivalent Across Modalities Benchmark for Vision-Language Models** was accepted by COLM 2025, see you in Montreal! (Code, Data, and Paper coming soon~)
-* Apr 2025: Two extended abstracts about human behavior modeling in chess were accepted by [IC2S2 2024](https://www.ic2s2-2025.org/)
+* Apr 2025: Two extended abstracts about human behavior modeling in chess were accepted by [IC2S2 2025](https://www.ic2s2-2025.org/)
 * Dec 2024: I passed the PhD Qualifying Exam! A huge thank you to my supervisory committee members - Ashton, Chris, and Colin!
 * Sep 2024: **Maia-2: A Unified Model for Human-AI Alignment in Chess** was accepted by NeurIPS 2024 \[[preprint](https://arxiv.org/abs/2409.20553)\], try it out on Lichess (join A/B test) @ \[[Lichess Bot](https://lichess.org/@/maia9)\], see you in Vancouver!
 * Jul 2024: I officially formed my PhD supervisory committee, which includes Prof. [Ashton Anderson](https://www.cs.toronto.edu/~ashton/) as my supervisor, along with Prof. [Chris Maddison](https://www.cs.toronto.edu/~cmaddis/) and Prof. [Colin Raffel](https://colinraffel.com/) as committee members.
@@ -35,10 +33,10 @@ You'll likely find me staying active through sports and outdoor activities. I'm 
 * Nov 2022: One paper was accepted by Elsevier Information Processing and Management (IP&M)
 * Jun 2022: One paper was accepted by ECML-PKDD 2022
 * Apr 2022: One paper was accepted by IJCAI 2022
-* Oct 2021: One paper was acccepted by WSDM 2022
+* Oct 2021: One paper was accepted by WSDM 2022
 * May 2020: One paper was accepted by KDD 2020
 
-</div>
+</details>
 
 ## Education
 
