@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate in Computer Science 💻 at the University of Toronto, where I work with Prof. [Ashton Anderson](https://www.cs.toronto.edu/~ashton/) on human behavior modeling using AI/ML 🤖. My research focuses on understanding and modeling human decision-making 🧠, particularly in strategic domains such as chess ♟️, where I explore the fascinating intersection of artificial intelligence and human cognition and behavior. 
+I'm a PhD candidate in Computer Science at the University of Toronto, where I work with Prof. [Ashton Anderson](https://www.cs.toronto.edu/~ashton/) on human behavior modeling using AI/ML. My research focuses on understanding and modeling human decision-making, particularly in strategic domains such as chess ♟️, where I explore the fascinating intersection of artificial intelligence and human cognition and behavior. 
 
 You'll likely find me staying active through sports and outdoor activities 🏃‍♂️. I'm passionate about basketball 🏀, badminton 🏸, billiards 🎱, and cycling 🚴‍♂️ – each offering its own unique blend of strategy, skill, and physical challenge that often inspires and motivates my academic work. 
 
-Born in Shenyang and raised in Beijing 🇨🇳, the transition to Toronto 🇨🇦 felt natural thanks to the familiar northern latitude and climate - WE THE NORTH!
+Born in Shenyang and raised in Beijing 🇨🇳, the transition to Toronto 🇨🇦 felt natural thanks to the familiar northern latitude and climate ❄️ - WE THE NORTH!
 
 ## News
 
