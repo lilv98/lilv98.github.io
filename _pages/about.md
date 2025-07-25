@@ -14,13 +14,16 @@ You'll likely find me staying active through sports and outdoor activities. I'm 
 
 ## News
 
-<details open markdown="1">
-<summary>Click to expand/collapse news</summary>
-
+* Jul 2025: Officially a PhD candidate now! 🎓 Just passed my Thesis Topic Approval checkpoint 🎉 Thanks again to my supervisory committee members - Ashton, Chris, and Colin!
 * Jul 2025: **SEAM: Semantically Equivalent Across Modalities Benchmark for Vision-Language Models** was accepted by COLM 2025, see you in Montreal! (Code, Data, and Paper coming soon~)
 * Apr 2025: Two extended abstracts about human behavior modeling in chess were accepted by [IC2S2 2025](https://www.ic2s2-2025.org/)
 * Dec 2024: I passed the PhD Qualifying Exam! A huge thank you to my supervisory committee members - Ashton, Chris, and Colin!
 * Sep 2024: **Maia-2: A Unified Model for Human-AI Alignment in Chess** was accepted by NeurIPS 2024 \[[preprint](https://arxiv.org/abs/2409.20553)\], try it out on Lichess (join A/B test) @ \[[Lichess Bot](https://lichess.org/@/maia9)\], see you in Vancouver!
+
+
+<details markdown="1">
+<summary>Show more news</summary>
+
 * Jul 2024: I officially formed my PhD supervisory committee, which includes Prof. [Ashton Anderson](https://www.cs.toronto.edu/~ashton/) as my supervisor, along with Prof. [Chris Maddison](https://www.cs.toronto.edu/~cmaddis/) and Prof. [Colin Raffel](https://colinraffel.com/) as committee members.
 * May 2024: One paper was accepted by ACL 2024 Findings
 * Apr 2024: Two extended abstracts were accepted by [IC2S2 2024](https://ic2s2-2024.org/), see you in Philly!
@@ -64,13 +67,14 @@ You'll likely find me staying active through sports and outdoor activities. I'm 
 ## Professional Service
 
 * **Conference Reviewer/PC Member**: 
-  * ICLR 2025
   * NeurIPS 2024, 2025
+  * ICML 2025
+  * ICLR 2025
+  * AAAI 2024, 2025, 2026
+  * IJCAI 2024, 2025
   * KDD 2024, 2025
   * WWW 2024, 2025
-  * AAAI 2024, 2025, 2026
   * AISTATS 2025
-  * IJCAI 2024, 2025
   * ACML 2025
   * IJCLR-NeSy 2022
 
