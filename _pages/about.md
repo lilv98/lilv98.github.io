@@ -11,6 +11,10 @@ redirect_from:
 Hello everyone! I'm a 3rd year PhD student at University of Toronto working with Prof. [Ashton Anderson](https://www.cs.toronto.edu/~ashton/). My research interests lie in machine learning and data mining, in particular human behavior modeling, knowledge representation learning, and recommender systems. Besides research, my passion for sports has always been an integral part of who I am, with basketball, badminton, and billiards ranking high on my list of favorites. Always eager to connect with fellow sports enthusiasts and academicians, I look forward to getting to know you all!
 
 ## News
+
+<details open>
+<summary><strong>Click to expand/collapse news</strong></summary>
+
 * Dec 2024: I passed the PhD Qualifying Exam! A huge thank you to my supervisory committee members - Ashton, Chris, and Colin!
 * Oct 2024: I was invited to review for ICLR 2025 and AISTATS 2025
 * Sep 2024: **Maia-2: A Unified Model for Human-AI Alignment in Chess** was accepted by NeurIPS 2024 \[[preprint](https://arxiv.org/abs/2409.20553)\], try it out on Lichess (join A/B test) @ \[[Lichess Bot](https://lichess.org/@/maia9)\], see you in Vancouver!
@@ -39,6 +43,8 @@ Hello everyone! I'm a 3rd year PhD student at University of Toronto working with
 * Apr 2022: One paper was accepted by IJCAI 2022
 * Oct 2021: One paper was acccepted by WSDM 2022
 * May 2020: One paper was accepted by KDD 2020
+
+</details>
 
 ## Education
 
