@@ -44,19 +44,16 @@ You'll likely find me staying active through sports and outdoor activities. I'm 
 
 ## Education
 
-**🎓 Ph.D in Computer Science**
+**🎓 Ph.D in Computer Science**  
 [University of Toronto](https://web.cs.toronto.edu/) 🇨🇦 | *Sep 2022 - present*  
-> Human Behavior Modeling with AI/ML
-
-> Supervisor: Prof. [Ashton Anderson](https://www.cs.toronto.edu/~ashton/)
-
+> Human Behavior Modeling with AI/ML  
+> Supervisor: Prof. [Ashton Anderson](https://www.cs.toronto.edu/~ashton/)  
 > Supervisory Committee Members: Prof. [Chris Maddison](https://www.cs.toronto.edu/~cmaddis/) and Prof. [Colin Raffel](https://colinraffel.com/)
 
 **🎓 M.S. in Computer Science**  
 [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en/) 🇸🇦 | *Jan 2021 - May 2022*  
-> Knowledge Representation Learning and Neuro-Symbolic Reasoning
-
-> Supervised by Prof. [Xiangliang Zhang](https://engineering.nd.edu/faculty/xiangliang-zhang/) and Prof. [Robert Hoehndorf](https://leechuck.de/)
+> Knowledge Representation Learning and Neuro-Symbolic Reasoning  
+> Supervisors: Prof. [Xiangliang Zhang](https://engineering.nd.edu/faculty/xiangliang-zhang/) and Prof. [Robert Hoehndorf](https://leechuck.de/)
 
 **🎓 B.S. in Electrical Engineering**  
 [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/) 🇨🇳 | *Sep 2016 - Jun 2020*
@@ -69,19 +66,16 @@ You'll likely find me staying active through sports and outdoor activities. I'm 
 **Visiting Scholar**  
 [L3S Research Center](https://www.l3s.de/) 🇩🇪 | *Jun 2022 - Aug 2022* | Hannover, Germany  
 > Neuro-Symbolic Reasoning, Knowledge Graphs, Applied Ontologies, and Bioinformatics  
-
 > Supervised by Prof. [Robert Hoehndorf](https://leechuck.de/) and Prof. [Maria-Esther Vidal](https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/scientific-data-management/mitarbeiterinnen-und-mitarbeiter/maria-esther-vidal)
 
 **Research Intern**  
 [Institute of Computing Technology, Chinese Academy of Sciences](http://www.ict.ac.cn/) 🇨🇳 | *Jul 2020 - Jan 2021* | Beijing, China  
 > Transfer Learning and Recommender Systems  
-
 > Supervised by Dr. [Yongchun Zhu](https://easezyc.github.io/) and Prof. [Fuzhen Zhuang](https://fuzhenzhuang.github.io/)
 
 **Research Intern**  
 [Baidu Research](http://research.baidu.com/) 🇨🇳 | *Oct 2019 - Jun 2020* | Beijing, China  
 > City Computing and User Modeling at Business Intelligence Lab  
-
 > Supervised by Dr. [Jingbo Zhou](https://zhoujingbo.github.io/) and Prof. [Hui Xiong](http://datamining.rutgers.edu/)
 
 **Visiting Student**  
@@ -90,27 +84,27 @@ You'll likely find me staying active through sports and outdoor activities. I'm 
 ## Professional Service
 
 **📋 Conference Reviewer/PC Member**
-> **NeurIPS** (2024, 2025)
-> **ICML** (2025)
-> **ICLR** (2025)
-> **AAAI** (2024, 2025, 2026)
-> **IJCAI** (2024, 2025)
-> **KDD** (2024, 2025)
-> **WWW** (2024, 2025)
-> **AISTATS** (2025)
-> **ACML** (2025)
+> **NeurIPS** (2024, 2025)  
+> **ICML** (2025)  
+> **ICLR** (2025)  
+> **AAAI** (2024, 2025, 2026)  
+> **IJCAI** (2024, 2025)  
+> **KDD** (2024, 2025)  
+> **WWW** (2024, 2025)  
+> **AISTATS** (2025)  
+> **ACML** (2025)  
 > **IJCLR-NeSy** (2022)
 
 **📚 Journal Reviewer**
-> **ACM Transactions on Information Systems** (TOIS)
-> **ACM Transactions on Knowledge Discovery from Data** (TKDD)
-> **IEEE Transactions on Knowledge and Data Engineering** (TKDE)
-> **Elsevier Information Processing and Management** (IP&M)
-> **Elsevier Information Fusion**
+> **ACM Transactions on Information Systems** (TOIS)  
+> **ACM Transactions on Knowledge Discovery from Data** (TKDD)  
+> **IEEE Transactions on Knowledge and Data Engineering** (TKDE)  
+> **Elsevier Information Processing and Management** (IP&M)  
+> **Elsevier Information Fusion**  
 > **Elsevier Information Systems**
 
 **👨‍🏫 Teaching Experience**
-> **Introduction to Computer Programming** | University of Toronto | Fall 2022  
-> **Introduction to Artificial Intelligence** | University of Toronto | Winter 2023
+> **Introduction to Computer Programming** - University of Toronto (Fall 2022)  
+> **Introduction to Artificial Intelligence** - University of Toronto (Winter 2023)
 
 
