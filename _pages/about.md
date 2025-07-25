@@ -14,8 +14,8 @@ You'll likely find me staying active through sports and outdoor activities. I'm 
 
 ## News
 
-* Jul 2025: I passed my Thesis Topic Approval checkpoint, officially a PhD candidate now! 🎓 
-* Jul 2025: [Maia Chess](https://www.maiachess.com/) is in open beta, it's empowered by Maia-2. Come play against the most human-like chess AI, analyze games with human-aware AI, and train with Maia as your coach!
+* Jul 2025: 🎉 I passed the Thesis Topic Approval checkpoint, officially a PhD candidate now! 
+* Jul 2025: ♟️ "Maia Chess is now in open beta! Powered by Maia-2, you can play against the most human-like chess AI, analyze games with human-aware AI, and train with Maia as your personal coach.
 * Jul 2025: **SEAM: Semantically Equivalent Across Modalities Benchmark for Vision-Language Models** was accepted by COLM 2025, see you in Montreal!
 * Apr 2025: Two extended abstracts about human behavior modeling in chess were accepted by [IC2S2 2025](https://www.ic2s2-2025.org/)
 * Dec 2024: I passed the PhD Qualifying Exam! 
@@ -52,7 +52,7 @@ You'll likely find me staying active through sports and outdoor activities. I'm 
 
 **🎓 M.S. in Computer Science**  
 [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en/) 🇸🇦 | *Jan 2021 - May 2022*  
-> Knowledge Representation Learning and Neuro-Symbolic Reasoning  
+> Knowledge Representation Learning, Knowledge Graphs, and Neuro-Symbolic Reasoning  
 > Supervisors: Prof. [Xiangliang Zhang](https://engineering.nd.edu/faculty/xiangliang-zhang/) and Prof. [Robert Hoehndorf](https://leechuck.de/)
 
 **🎓 B.S. in Electrical Engineering**  
@@ -65,7 +65,7 @@ You'll likely find me staying active through sports and outdoor activities. I'm 
 
 **Visiting Scholar**  
 [L3S Research Center](https://www.l3s.de/) 🇩🇪 | *Jun 2022 - Aug 2022* | Hannover, Germany  
-> Neuro-Symbolic Reasoning, Knowledge Graphs, Applied Ontologies, and Bioinformatics  
+> Neuro-Symbolic Reasoning and Bioinformatics  
 > Supervised by Prof. [Robert Hoehndorf](https://leechuck.de/) and Prof. [Maria-Esther Vidal](https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/scientific-data-management/mitarbeiterinnen-und-mitarbeiter/maria-esther-vidal)
 
 **Research Intern**  
