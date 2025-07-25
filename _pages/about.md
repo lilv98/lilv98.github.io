@@ -15,7 +15,7 @@ You'll likely find me staying active through sports and outdoor activities. I'm 
 ## News
 
 * Jul 2025: 🎉 I passed the Thesis Topic Approval checkpoint, officially a PhD candidate now! 
-* Jul 2025: ♟️ "Maia Chess is now in open beta! Powered by Maia-2, you can play against the most human-like chess AI, analyze games with human-aware AI, and train with Maia as your personal coach.
+* Jul 2025: ♟️ [Maia Chess](https://www.maiachess.com/) is now in open beta! Powered by Maia-2, you can play against the most human-like chess AI, analyze games with human-aware AI, and train with Maia as your personal coach.
 * Jul 2025: **SEAM: Semantically Equivalent Across Modalities Benchmark for Vision-Language Models** was accepted by COLM 2025, see you in Montreal!
 * Apr 2025: Two extended abstracts about human behavior modeling in chess were accepted by [IC2S2 2025](https://www.ic2s2-2025.org/)
 * Dec 2024: I passed the PhD Qualifying Exam! 
