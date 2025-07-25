@@ -45,41 +45,41 @@ You'll likely find me staying active through sports and outdoor activities. I'm 
 ## Education
 
 **🎓 Ph.D in Computer Science**  
-[University of Toronto](https://web.cs.toronto.edu/) 🇨🇦 | *Sep 2022 - present*  
+[University of Toronto](https://web.cs.toronto.edu/) | Toronto, Canada 🇨🇦 | *Sep 2022 - present*  
 > Human Behavior Modeling with AI/ML  
 > Supervisor: Prof. [Ashton Anderson](https://www.cs.toronto.edu/~ashton/)  
 > Supervisory Committee Members: Prof. [Chris Maddison](https://www.cs.toronto.edu/~cmaddis/) and Prof. [Colin Raffel](https://colinraffel.com/)
 
 **🎓 M.S. in Computer Science**  
-[King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en/) 🇸🇦 | *Jan 2021 - May 2022*  
+[King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en/) | Jeddah, Saudi Arabia 🇸🇦 | *Jan 2021 - May 2022*  
 > Knowledge Representation Learning, Knowledge Graphs, and Neuro-Symbolic Reasoning  
 > Supervisors: Prof. [Xiangliang Zhang](https://engineering.nd.edu/faculty/xiangliang-zhang/) and Prof. [Robert Hoehndorf](https://leechuck.de/)
 
 **🎓 B.S. in Electrical Engineering**  
-[Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/) 🇨🇳 | *Sep 2016 - Jun 2020*
+[Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/) | Beijing, China 🇨🇳 | *Sep 2016 - Jun 2020*
 
 ## Experience
 
 **Faculty Affiliated Researcher**  
-[Vector Institute](https://vectorinstitute.ai/) 🇨🇦 | *Nov 2022 - Present* | Toronto, Ontario
+[Vector Institute](https://vectorinstitute.ai/) | *Nov 2022 - Present* | Toronto, Canada 🇨🇦
 
 **Visiting Scholar**  
-[L3S Research Center](https://www.l3s.de/) 🇩🇪 | *Jun 2022 - Aug 2022* | Hannover, Germany  
+[L3S Research Center](https://www.l3s.de/) | *Jun 2022 - Aug 2022* | Hannover, Germany 🇩🇪  
 > Neuro-Symbolic Reasoning and Bioinformatics  
 > Supervised by Prof. [Robert Hoehndorf](https://leechuck.de/) and Prof. [Maria-Esther Vidal](https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/scientific-data-management/mitarbeiterinnen-und-mitarbeiter/maria-esther-vidal)
 
 **Research Intern**  
-[Institute of Computing Technology, Chinese Academy of Sciences](http://www.ict.ac.cn/) 🇨🇳 | *Jul 2020 - Jan 2021* | Beijing, China  
+[Institute of Computing Technology, Chinese Academy of Sciences](http://www.ict.ac.cn/) | *Jul 2020 - Jan 2021* | Beijing, China 🇨🇳  
 > Transfer Learning and Recommender Systems  
 > Supervised by Dr. [Yongchun Zhu](https://easezyc.github.io/) and Prof. [Fuzhen Zhuang](https://fuzhenzhuang.github.io/)
 
 **Research Intern**  
-[Baidu Research](http://research.baidu.com/) 🇨🇳 | *Oct 2019 - Jun 2020* | Beijing, China  
+[Baidu Research](http://research.baidu.com/) | *Oct 2019 - Jun 2020* | Beijing, China 🇨🇳  
 > City Computing and User Modeling at Business Intelligence Lab  
 > Supervised by Dr. [Jingbo Zhou](https://zhoujingbo.github.io/) and Prof. [Hui Xiong](http://datamining.rutgers.edu/)
 
 **Visiting Student**  
-[University of Washington](https://www.washington.edu/) 🇺🇸 | *Jun 2018 - Aug 2018* | Seattle, United States
+[University of Washington](https://www.washington.edu/) | *Jun 2018 - Aug 2018* | Seattle, United States 🇺🇸
 
 ## Professional Service
 
