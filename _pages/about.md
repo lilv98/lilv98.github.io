@@ -43,51 +43,80 @@ You'll likely find me staying active through sports and outdoor activities. I'm 
 
 ## Education
 
-* Ph.D in Computer Science, [University of Toronto](https://web.cs.toronto.edu/), Canada, Sep 2022 - present
-  * Working on Human Behavior Modeling with Prof. [Ashton Anderson](https://www.cs.toronto.edu/~ashton/)
-* M.S. in Computer Science, [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/en/), Saudi Arabia, Jan 2021 - May 2022
-  * Worked on Knowledge Representation Learning and Neuro-Symbolic Reasoning with Prof. [Xiangliang Zhang](https://engineering.nd.edu/faculty/xiangliang-zhang/) and Prof. [Robert Hoehndorf](https://leechuck.de/)
-* B.S. in Electrical Engineering, [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), China, Sep 2016 - Jun 2020
+### 🎓 Ph.D in Computer Science
+**[University of Toronto](https://web.cs.toronto.edu/)** 🇨🇦  
+*Sep 2022 - present*
+- Working on Human Behavior Modeling with Prof. [Ashton Anderson](https://www.cs.toronto.edu/~ashton/)
+
+### 🎓 M.S. in Computer Science  
+**[King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en/)** 🇸🇦  
+*Jan 2021 - May 2022*
+- Worked on Knowledge Representation Learning and Neuro-Symbolic Reasoning 
+- Supervised by Prof. [Xiangliang Zhang](https://engineering.nd.edu/faculty/xiangliang-zhang/) and Prof. [Robert Hoehndorf](https://leechuck.de/)
+
+### 🎓 B.S. in Electrical Engineering
+**[Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/)** 🇨🇳  
+*Sep 2016 - Jun 2020*
 
 ## Experience
 
-* Faculty Affiliated Researcher, Vector Institute, Toronto, Ontario, Canada, Nov 2022 - Present
+### 💼 Faculty Affiliated Researcher
+**[Vector Institute](https://vectorinstitute.ai/)** 🇨🇦  
+*Nov 2022 - Present*  
+Toronto, Ontario
 
-* Research Intern, L3S Research Center, Hannover, Germany, Jun 2022 - Aug 2022
-  * Worked on Neuro-Symbolic Reasoning and Bioinformatics with Prof. [Robert Hoehndorf](https://leechuck.de/) and Prof. [Maria-Esther Vidal](https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/scientific-data-management/mitarbeiterinnen-und-mitarbeiter/maria-esther-vidal)
+### 🔬 Research Intern
+**[L3S Research Center](https://www.l3s.de/)** 🇩🇪  
+*Jun 2022 - Aug 2022*  
+Hannover, Germany
+- Worked on Neuro-Symbolic Reasoning and Bioinformatics 
+- Supervised by Prof. [Robert Hoehndorf](https://leechuck.de/) and Prof. [Maria-Esther Vidal](https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/scientific-data-management/mitarbeiterinnen-und-mitarbeiter/maria-esther-vidal)
 
-* Research Intern, Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China, Jul 2020 - Jan 2021
-  * Worked on Transfer Learning and Recommender Systems with Dr. [Yongchun Zhu](https://easezyc.github.io/) and Prof. [Fuzhen Zhuang](https://fuzhenzhuang.github.io/) 
+### 🔬 Research Intern  
+**[Institute of Computing Technology, Chinese Academy of Sciences](http://www.ict.ac.cn/)** 🇨🇳  
+*Jul 2020 - Jan 2021*  
+Beijing, China
+- Worked on Transfer Learning and Recommender Systems 
+- Supervised by Dr. [Yongchun Zhu](https://easezyc.github.io/) and Prof. [Fuzhen Zhuang](https://fuzhenzhuang.github.io/)
 
-* Research Intern, Baidu Research, Beijing, China, Oct 2019 - Jun 2020
-  * Worked on City Computing and User Modeling with Dr. [Jingbo Zhou](https://zhoujingbo.github.io/) and Prof. [Hui Xiong](http://datamining.rutgers.edu/) at Business Intelligence Lab
+### 🔬 Research Intern
+**[Baidu Research](http://research.baidu.com/)** 🇨🇳  
+*Oct 2019 - Jun 2020*  
+Beijing, China
+- Worked on City Computing and User Modeling at Business Intelligence Lab
+- Supervised by Dr. [Jingbo Zhou](https://zhoujingbo.github.io/) and Prof. [Hui Xiong](http://datamining.rutgers.edu/)
 
-* Visiting Student, University of Washington, Seattle, United States, Jun 2018 - Aug 2018
+### 📚 Visiting Student
+**[University of Washington](https://www.washington.edu/)** 🇺🇸  
+*Jun 2018 - Aug 2018*  
+Seattle, United States
 
 ## Professional Service
 
-* **Conference Reviewer/PC Member**: 
-  * NeurIPS 2024, 2025
-  * ICML 2025
-  * ICLR 2025
-  * AAAI 2024, 2025, 2026
-  * IJCAI 2024, 2025
-  * KDD 2024, 2025
-  * WWW 2024, 2025
-  * AISTATS 2025
-  * ACML 2025
-  * IJCLR-NeSy 2022
+### 📋 Conference Reviewer/PC Member
+- **NeurIPS** 2024, 2025
+- **ICML** 2025
+- **ICLR** 2025
+- **AAAI** 2024, 2025, 2026
+- **IJCAI** 2024, 2025
+- **KDD** 2024, 2025
+- **WWW** 2024, 2025
+- **AISTATS** 2025
+- **ACML** 2025
+- **IJCLR-NeSy** 2022
 
-* **Journal Reviewer**: 
-  * ACM Transactions on Information Systems (TOIS)
-  * ACM Transactions on Knowledge Discovery from Data (TKDD)
-  * IEEE Transactions on Knowledge and Data Engineering (TKDE)
-  * Elsevier Information Processing and Management (IP&M)
-  * Elsevier Information Fusion
-  * Elsevier Information Systems
+### 📚 Journal Reviewer
+- **ACM Transactions on Information Systems** (TOIS)
+- **ACM Transactions on Knowledge Discovery from Data** (TKDD)
+- **IEEE Transactions on Knowledge and Data Engineering** (TKDE)
+- **Elsevier Information Processing and Management** (IP&M)
+- **Elsevier Information Fusion**
+- **Elsevier Information Systems**
 
-* **Teaching**: 
-  * Introduction to Computer Programming, University of Toronto, 2022 Fall
-  * Introduction to Artificial Intelligence, University of Toronto, 2023 Winter
+### 👨‍🏫 Teaching Experience
+- **Introduction to Computer Programming** 🇨🇦  
+  University of Toronto, Fall 2022
+- **Introduction to Artificial Intelligence** 🇨🇦  
+  University of Toronto, Winter 2023
 
 
