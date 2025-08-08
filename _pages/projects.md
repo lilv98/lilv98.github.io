@@ -3,6 +3,7 @@ permalink: /projects/
 title: "Projects"
 excerpt: "Research projects"
 author_profile: true
+published: false
 ---
 
 ## [SEAM: Semantically Equivalent Across Modalities](/seam/)

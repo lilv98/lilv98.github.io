@@ -4,6 +4,7 @@ title: "SEAM: Semantically Equivalent Across Modalities"
 excerpt: "A rigorous benchmark for evaluating vision-language models across semantically equivalent textual and visual representations"
 author_profile: true
 classes: wide
+published: false
 ---
 
 <style>
