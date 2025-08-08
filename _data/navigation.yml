@@ -7,6 +7,9 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "SEAM"
+    url: /seam/
+
   # - title: "Teaching"
   #   url: /teaching/    
     
