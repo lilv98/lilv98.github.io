@@ -67,23 +67,24 @@ hr {
 #logos {
     margin-top: 6px;
     line-height: 0;
+    white-space: nowrap;
 }
 
 #logos a {
     display: inline-block;
-    margin-right: 12px;
+    margin-right: 9px;
     margin-bottom: 4px;
 }
 
 #logos img {
-    height: 38px;
+    height: 33px;
     width: auto;
     vertical-align: middle;
     transition: opacity 0.2s;
 }
 
 #logos img.big {
-    height: 48px;
+    height: 42px;
 }
 
 #logos a:hover img {
@@ -199,6 +200,11 @@ pre.bib {
 
     img#headshot {
         width: 130px;
+    }
+
+    /* Allow the affiliation logos to wrap on narrow screens */
+    #logos {
+        white-space: normal;
     }
 
     /* Keep the nav under the photo readable and left-aligned */
