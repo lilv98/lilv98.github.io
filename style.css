@@ -71,12 +71,12 @@ hr {
 
 #logos a {
     display: inline-block;
-    margin-right: 14px;
+    margin-right: 12px;
     margin-bottom: 4px;
 }
 
 #logos img {
-    height: 34px;
+    height: 38px;
     width: auto;
     vertical-align: middle;
     transition: opacity 0.2s;
