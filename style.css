@@ -107,7 +107,27 @@ pre.bib {
     table[width="950"] {
         width: 100% !important;
     }
+
+    /* Collapse the two-column header (text + photo) into a single column */
+    table table,
+    table table tbody,
+    table table tr {
+        display: block;
+        width: 100% !important;
+    }
+    table table td {
+        display: block;
+        width: 100% !important;
+        text-align: left !important;
+        padding: 4px 0 !important;
+    }
+
     img#headshot {
-        width: 110px;
+        width: 130px;
+    }
+
+    /* Keep the nav under the photo readable and left-aligned */
+    table table td p {
+        text-align: left !important;
     }
 }
