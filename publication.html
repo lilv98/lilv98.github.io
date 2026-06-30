@@ -4,7 +4,7 @@
 
 <head>
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro">
-    <link rel="stylesheet" type="text/css" href="style.css?v=2">
+    <link rel="stylesheet" type="text/css" href="style.css?v=3">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.4/css/academicons.min.css">
     <title>Zhenwei (Joseph) Tang - Publications</title>
@@ -37,9 +37,9 @@
 
                             <p id="logos">
                                 <a href="https://web.cs.toronto.edu/" title="University of Toronto"><img src="img/uoft.png" /></a>
+                                <a href="https://research.google/" title="Google"><img class="big" src="img/google.png" /></a>
                                 <a href="https://www.kaust.edu.sa/en/" title="KAUST"><img src="img/kaust.png" /></a>
                                 <a href="https://www.bupt.edu.cn/" title="Beijing University of Posts and Telecommunications"><img src="img/bupt.png" /></a>
-                                <a href="https://research.google/" title="Google"><img src="img/google.png" /></a>
                                 <a href="https://layer6.ai/" title="Layer 6 AI (TD)"><img src="img/layer6.png" /></a>
                                 <a href="https://vectorinstitute.ai/" title="Vector Institute"><img src="img/vector.png" /></a>
                                 <a href="https://www.l3s.de/" title="L3S Research Centre, Leibniz Universität Hannover"><img src="img/hannover.png" /></a>
@@ -60,171 +60,212 @@
 
                 <hr />
 
-                <heading><font color="#B22222" size="4px">2026</font></heading>
-                <p>
-                    <ol>
-                        <li>
+                <div class="topic-legend">
+                    <b>Topics:</b> HBM = Human Behavior Modeling, LLM-Eval = LLM Evaluation, LLM-PT = LLM Post-training, KG = Knowledge Graphs, RecSys = Recommender Systems, VLM = Vision-Language Models, Bio = Bioinformatics. (<b>Bold</b> denotes my name.)
+                </div>
+
+                <div id="topicfilter">
+                    <button class="active" data-topic="all">All</button>
+                    <button data-topic="HBM">HBM</button>
+                    <button data-topic="LLM-Eval">LLM-Eval</button>
+                    <button data-topic="LLM-PT">LLM-PT</button>
+                    <button data-topic="KG">KG</button>
+                    <button data-topic="RecSys">RecSys</button>
+                    <button data-topic="VLM">VLM</button>
+                    <button data-topic="Bio">Bio</button>
+                </div>
+
+                <div class="year-group">
+                    <heading><font color="#B22222" size="4px">2026</font></heading>
+                    <ul class="publist">
+                        <li data-topics="HBM">
                             <b>Chessformer: A Unified Architecture for Chess Modeling</b><br>
                             D Monroe, G Eilender, P Chalmers, <b>Z Tang</b>, A Anderson<br>
                             <i><font color="#585251">International Conference on Learning Representations</i> (<b>ICLR 2026</b>)</font><br>
+                            <span class="tag">HBM</span>
                         </li>
-                        <li>
+                        <li data-topics="LLM-Eval">
                             <b>SWE-Bench Mobile: Can Large Language Model Agents Develop Industry-Level Mobile Applications?</b><br>
                             M Tian, Z Wang, B Yang, <b>Z Tang</b>, K Zhu, H Dong, H Li, X Xie, G Wang, et al.<br>
                             <i><font color="#585251">ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i> (<b>KDD 2026</b>)</font><br>
+                            <span class="tag">LLM-Eval</span>
                         </li>
-                        <li>
+                        <li data-topics="LLM-PT">
                             <b>LLM Safety From Within: Detecting Harmful Content with Internal Representations</b><br>
                             D Jiao, Y Liu, Y Yuan, <b>Z Tang</b>, L Du, H Wu, A Anderson<br>
                             <i><font color="#585251">Annual Meeting of the Association for Computational Linguistics</i> (<b>ACL 2026</b>)</font><br>
+                            <span class="tag">LLM-PT</span>
                         </li>
-                        <li>
+                        <li data-topics="HBM LLM-PT">
                             <a href="https://arxiv.org/abs/2603.20510"><b>Grounded Chess Reasoning in Language Models via Master Distillation</b></a><br>
                             <b>Z Tang</b>, Q Wen, S Grief-Albert, Y Elgabra, B Yang, H Dong, A Anderson<br>
                             <i><font color="#585251">arXiv preprint</i></font><br>
+                            <span class="tag">HBM</span><span class="tag">LLM-PT</span>
                         </li>
-                        <li>
+                        <li data-topics="LLM-PT">
                             <a href="https://arxiv.org/abs/2603.13761"><b>Level Up: Defining and Exploiting Transitional Problems for Curriculum Learning</b></a><br>
                             <b>Z Tang</b>, A Inamdar, A Anderson, R Zemel<br>
                             <i><font color="#585251">arXiv preprint</i></font><br>
+                            <span class="tag">LLM-PT</span>
                         </li>
-                        <li>
+                        <li data-topics="LLM-PT">
                             <a href="https://arxiv.org/abs/2604.01591"><b>ThinkTwice: Jointly Optimizing Large Language Models for Reasoning and Self-Refinement</b></a><br>
                             D Jiao, Q Wen, B Yang, <b>Z Tang</b>, A Anderson<br>
                             <i><font color="#585251">arXiv preprint</i></font><br>
+                            <span class="tag">LLM-PT</span>
                         </li>
-                        <li>
+                        <li data-topics="LLM-Eval">
                             <a href="https://arxiv.org/abs/2605.21748"><b>RankJudge: A Multi-Turn LLM-as-a-Judge Synthetic Benchmark Generator</b></a><br>
                             <b>Z Tang</b>, Z Liu, R Hosseinzadeh, T Wu, K Golestan, JC Cresswell<br>
                             <i><font color="#585251">arXiv preprint</i></font><br>
+                            <span class="tag">LLM-Eval</span>
                         </li>
-                        <li>
+                        <li data-topics="LLM-PT">
                             <a href="https://arxiv.org/abs/2605.02913"><b>Generate, Filter, Control, Replay: A Comprehensive Survey of Rollout Strategies for LLM Reinforcement Learning</b></a><br>
                             R Surana, G Mundada, X Jiang, C Wang, <b>Z Tang</b>, D Jiao, Z Huang, et al.<br>
                             <i><font color="#585251">arXiv preprint</i></font><br>
+                            <span class="tag">LLM-PT</span>
                         </li>
-                        <li>
+                        <li data-topics="VLM">
                             <a href="https://arxiv.org/abs/2605.06460"><b>MINER: Mining Multimodal Internal Representation for Efficient Retrieval</b></a><br>
                             W Li, R Song, Z Li, H Liu, G Zhang, D Jiao, <b>Z Tang</b>, B He, H Wu, X Liu, et al.<br>
                             <i><font color="#585251">arXiv preprint</i></font><br>
+                            <span class="tag">VLM</span>
                         </li>
-                    </ol>
-                </p>
+                    </ul>
+                </div>
 
-                <heading><font color="#B22222" size="4px">2025</font></heading>
-                <p>
-                    <ol>
-                        <li>
+                <div class="year-group">
+                    <heading><font color="#B22222" size="4px">2025</font></heading>
+                    <ul class="publist">
+                        <li data-topics="VLM LLM-Eval">
                             <a href="https://arxiv.org/abs/2508.18179"><b>SEAM: Semantically Equivalent Across Modalities Benchmark for Vision-Language Models</b></a><br>
                             <b>Z Tang</b>, D Jiao, B Yang, A Anderson<br>
                             <i><font color="#585251">Conference on Language Modeling</i> (<b>COLM 2025</b>)</font><br>
+                            <span class="tag">VLM</span><span class="tag">LLM-Eval</span>
                         </li>
-                        <li>
+                        <li data-topics="HBM">
                             <a href="https://arxiv.org/abs/2507.21488"><b>Learning to Imitate with Less: Efficient Individual Behavior Modeling in Chess and LLMs</b></a><br>
                             <b>Z Tang</b>, D Jiao, E Xue, R McIlroy-Young, J Kleinberg, S Sen, A Anderson<br>
                             <i><font color="#585251">Transactions on Machine Learning Research</i> (<b>TMLR 2025</b>)</font><br>
+                            <span class="tag">HBM</span>
                         </li>
-                        <li>
+                        <li data-topics="HBM LLM-Eval">
                             <a href="https://arxiv.org/abs/2510.23948"><b>ChessQA: Evaluating Large Language Models for Chess Understanding</b></a><br>
                             Q Wen, <b>Z Tang</b>, A Anderson<br>
                             <i><font color="#585251">arXiv preprint</i></font><br>
+                            <span class="tag">HBM</span><span class="tag">LLM-Eval</span>
                         </li>
-                    </ol>
-                </p>
+                    </ul>
+                </div>
 
-                <heading><font color="#B22222" size="4px">2024</font></heading>
-                <p>
-                    <ol>
-                        <li>
+                <div class="year-group">
+                    <heading><font color="#B22222" size="4px">2024</font></heading>
+                    <ul class="publist">
+                        <li data-topics="HBM">
                             <a href="https://arxiv.org/abs/2409.20553"><b>Maia-2: A Unified Model for Human-AI Alignment in Chess</b></a><br>
                             <b>Z Tang</b>, D Jiao, R McIlroy-Young, J Kleinberg, S Sen, A Anderson<br>
                             <i><font color="#585251">Conference on Neural Information Processing Systems</i> (<b>NeurIPS 2024</b>)</font><br>
+                            <span class="tag">HBM</span>
                         </li>
-                        <li>
+                        <li data-topics="LLM-PT">
                             <a href="https://aclanthology.org/2024.findings-acl.277/"><b>SPIN: Sparsifying and Integrating Internal Neurons in Large Language Models for Text Classification</b></a><br>
                             D Jiao, Y Liu, <b>Z Tang</b>, D Matter, J Pfeffer, A Anderson<br>
                             <i><font color="#585251">Findings of the Association for Computational Linguistics</i> (<b>ACL 2024 Findings</b>)</font><br>
+                            <span class="tag">LLM-PT</span>
                         </li>
-                        <li>
+                        <li data-topics="Bio KG">
                             <a href="https://www.biorxiv.org/content/10.1101/2024.01.28.577662v1.abstract"><b>Predicting Protein Functions Using Positive-Unlabeled Ranking with Ontology-based Priors</b></a><br>
                             F Zhapa-Camacho, <b>Z Tang</b>, M Kulmanov, R Hoehndorf<br>
                             <i><font color="#585251">Bioinformatics</i> (<b>ISMB 2024</b>)</font><br>
+                            <span class="tag">Bio</span><span class="tag">KG</span>
                         </li>
-                    </ol>
-                </p>
+                    </ul>
+                </div>
 
-                <heading><font color="#B22222" size="4px">2023</font></heading>
-                <p>
-                    <ol>
-                        <li>
+                <div class="year-group">
+                    <heading><font color="#B22222" size="4px">2023</font></heading>
+                    <ul class="publist">
+                        <li data-topics="KG">
                             <a href="https://link.springer.com/chapter/10.1007/978-3-031-47240-4_28"><b>Neural Multi-hop Logical Query Answering with Concept-level Answers</b></a><br>
                             <b>Z Tang</b>, S Pei, X Peng, F Zhuang, X Zhang, R Hoehndorf<br>
-                            <i><font color="#585251">International Semantic Web Conference</i> (<b>ISWC 2023</b>) &mdash; Best Paper Candidate</font><br>
+                            <i><font color="#585251">International Semantic Web Conference</i> (<b>ISWC 2023</b>, Best Paper Candidate)</font><br>
+                            <span class="tag">KG</span>
                         </li>
-                        <li>
+                        <li data-topics="RecSys KG">
                             <a href="https://dl.acm.org/doi/10.1145/3539618.3592012"><b>LogicRec: Recommendation with Users' Logical Requirements</b></a><br>
                             <b>Z Tang</b>, G Floto, A Toroghi, S Pei, X Zhang, S Sanner<br>
                             <i><font color="#585251">International ACM SIGIR Conference on Research and Development in Information Retrieval</i> (<b>SIGIR 2023</b>)</font><br>
+                            <span class="tag">RecSys</span><span class="tag">KG</span>
                         </li>
-                        <li>
+                        <li data-topics="RecSys">
                             <a href="https://dl.acm.org/doi/abs/10.1145/3539618.3591954"><b>Bayesian Knowledge-driven Critiquing with Indirect Evidence</b></a><br>
                             A Toroghi, G Floto, <b>Z Tang</b>, S Sanner<br>
                             <i><font color="#585251">International ACM SIGIR Conference on Research and Development in Information Retrieval</i> (<b>SIGIR 2023</b>)</font><br>
+                            <span class="tag">RecSys</span>
                         </li>
-                        <li>
+                        <li data-topics="LLM-PT">
                             <a href="https://aclanthology.org/2023.findings-acl.478/"><b>DiffuDetox: A Mixed Diffusion Model for Text Detoxification</b></a><br>
                             G Floto, MMA Pour, P Farinneya, <b>Z Tang</b>, A Pesaranghader, M Bharadwaj, S Sanner<br>
                             <i><font color="#585251">Findings of the Association for Computational Linguistics</i> (<b>ACL 2023 Findings</b>)</font><br>
+                            <span class="tag">LLM-PT</span>
                         </li>
-                        <li>
+                        <li data-topics="RecSys">
                             <a href="https://link.springer.com/chapter/10.1007/978-3-031-26390-3_43"><b>Customized Conversational Recommender Systems</b></a><br>
                             S Li, Y Zhu, R Xie, <b>Z Tang</b>, Z Zhang, F Zhuang, Q He, H Xiong<br>
                             <i><font color="#585251">European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases</i> (<b>ECML-PKDD 2023</b>)</font><br>
+                            <span class="tag">RecSys</span>
                         </li>
-                    </ol>
-                </p>
+                    </ul>
+                </div>
 
-                <heading><font color="#B22222" size="4px">2022</font></heading>
-                <p>
-                    <ol>
-                        <li>
+                <div class="year-group">
+                    <heading><font color="#B22222" size="4px">2022</font></heading>
+                    <ul class="publist">
+                        <li data-topics="KG">
                             <a href="https://www.ijcai.org/proceedings/2022/312"><b>Positive-Unlabeled Learning with Adversarial Data Augmentation for Knowledge Graph Completion</b></a><br>
                             <b>Z Tang</b>, S Pei, Z Zhang, Y Zhu, F Zhuang, R Hoehndorf, X Zhang<br>
                             <i><font color="#585251">International Joint Conference on Artificial Intelligence</i> (<b>IJCAI 2022</b>)</font><br>
+                            <span class="tag">KG</span>
                         </li>
-                        <li>
+                        <li data-topics="RecSys">
                             <a href="https://dl.acm.org/doi/abs/10.1145/3488560.3498392"><b>Personalized Transfer of User Preferences for Cross-domain Recommendation</b></a><br>
                             Y Zhu, <b>Z Tang</b>, Y Liu, F Zhuang, R Xie, X Zhang, L Lin, Q He<br>
                             <i><font color="#585251">ACM International Conference on Web Search and Data Mining</i> (<b>WSDM 2022</b>)</font><br>
+                            <span class="tag">RecSys</span>
                         </li>
-                        <li>
+                        <li data-topics="RecSys">
                             <a href="https://www.sciencedirect.com/science/article/abs/pii/S0306457322001698"><b>Self-Supervised Learning for Conversational Recommendation</b></a><br>
                             S Li, R Xie, Y Zhu, F Zhuang, <b>Z Tang</b>, WX Zhao, Q He<br>
                             <i><font color="#585251">Information Processing &amp; Management</i> (<b>IP&amp;M</b>)</font><br>
+                            <span class="tag">RecSys</span>
                         </li>
-                        <li>
+                        <li data-topics="KG">
                             <a href="https://arxiv.org/abs/2208.07628"><b>FALCON: Faithful Neural Semantic Entailment over ALC Ontologies</b></a><br>
                             <b>Z Tang</b>, T Hinnerichs, X Peng, X Zhang, R Hoehndorf<br>
                             <i><font color="#585251">arXiv preprint</i></font><br>
+                            <span class="tag">KG</span>
                         </li>
-                        <li>
+                        <li data-topics="KG">
                             <a href="https://arxiv.org/abs/2202.14018"><b>Description Logic EL++ Embeddings with Intersectional Closure</b></a><br>
                             X Peng, <b>Z Tang</b>, M Kulmanov, K Niu, R Hoehndorf<br>
                             <i><font color="#585251">arXiv preprint</i></font><br>
+                            <span class="tag">KG</span>
                         </li>
-                    </ol>
-                </p>
+                    </ul>
+                </div>
 
-                <heading><font color="#B22222" size="4px">2020</font></heading>
-                <p>
-                    <ol>
-                        <li>
+                <div class="year-group">
+                    <heading><font color="#B22222" size="4px">2020</font></heading>
+                    <ul class="publist">
+                        <li data-topics="RecSys">
                             <a href="https://dl.acm.org/doi/abs/10.1145/3394486.3403387"><b>Intelligent Exploration for User Interface Modules of Mobile App with Collective Learning</b></a><br>
                             J Zhou, <b>Z Tang</b>, M Zhao, X Ge, F Zhuang, M Zhou, L Zou, C Yang, H Xiong<br>
                             <i><font color="#585251">ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i> (<b>KDD 2020</b>)</font><br>
+                            <span class="tag">RecSys</span>
                         </li>
-                    </ol>
-                </p>
+                    </ul>
+                </div>
 
                 <hr />
 
@@ -233,6 +274,26 @@
             </td>
         </tr>
     </table>
+
+    <script>
+        (function () {
+            var btns = [].slice.call(document.querySelectorAll('#topicfilter button'));
+            var items = [].slice.call(document.querySelectorAll('.year-group li'));
+            var groups = [].slice.call(document.querySelectorAll('.year-group'));
+            function apply(topic) {
+                items.forEach(function (li) {
+                    var t = (li.getAttribute('data-topics') || '').split(' ');
+                    li.style.display = (topic === 'all' || t.indexOf(topic) > -1) ? '' : 'none';
+                });
+                groups.forEach(function (g) {
+                    var visible = [].slice.call(g.querySelectorAll('li')).some(function (li) { return li.style.display !== 'none'; });
+                    g.style.display = visible ? '' : 'none';
+                });
+                btns.forEach(function (b) { b.classList.toggle('active', b.getAttribute('data-topic') === topic); });
+            }
+            btns.forEach(function (b) { b.addEventListener('click', function () { apply(b.getAttribute('data-topic')); }); });
+        })();
+    </script>
 </body>
 
 </html>

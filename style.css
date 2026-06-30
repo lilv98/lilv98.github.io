@@ -82,6 +82,10 @@ hr {
     transition: opacity 0.2s;
 }
 
+#logos img.big {
+    height: 48px;
+}
+
 #logos a:hover img {
     opacity: 0.6;
 }
@@ -101,6 +105,77 @@ pre.bib {
     max-width: 650px;
     overflow: auto;
     line-height: normal;
+}
+
+/* Scrollable News box */
+.news-scroll {
+    max-height: 230px;
+    overflow-y: auto;
+    border: 1px solid #dddddd;
+    padding: 2px 12px;
+    margin-top: 6px;
+}
+
+/* Topic filter and tags (publications) */
+.topic-legend {
+    font-size: 13px;
+    color: #666666;
+    margin: 6px 0;
+}
+
+#topicfilter {
+    margin: 12px 0 16px;
+}
+
+#topicfilter button {
+    font-family: Source Sans Pro, Helvetica, sans-serif;
+    font-size: 13px;
+    color: #4682B4;
+    background: #ffffff;
+    border: 1px solid #c4d0dc;
+    border-radius: 13px;
+    padding: 2px 11px;
+    margin: 0 6px 7px 0;
+    cursor: pointer;
+}
+
+#topicfilter button:hover {
+    background: #eef3f8;
+}
+
+#topicfilter button.active {
+    background: #4682B4;
+    color: #ffffff;
+    border-color: #4682B4;
+}
+
+.publist {
+    list-style: none;
+    padding-left: 0;
+    margin: 0 0 6px 0;
+}
+
+.publist li {
+    margin-bottom: 13px;
+}
+
+.year-group {
+    margin-bottom: 4px;
+}
+
+.tag {
+    display: inline-block;
+    font-size: 11px;
+    color: #4682B4;
+    background: #eef3f8;
+    border-radius: 8px;
+    padding: 1px 7px;
+    margin-right: 4px;
+}
+
+/* Visitor map */
+#visitormap {
+    margin: 8px 0 4px;
 }
 
 @media (max-width: 700px) {
