@@ -118,14 +118,14 @@ pre.bib {
 }
 
 /* Topic filter and tags (publications) */
-.topic-legend {
-    font-size: 13px;
-    color: #666666;
-    margin: 6px 0;
-}
-
 #topicfilter {
     margin: 12px 0 16px;
+}
+
+#topicfilter .filter-label {
+    font-size: 13px;
+    color: #444444;
+    margin-right: 6px;
 }
 
 #topicfilter button {
