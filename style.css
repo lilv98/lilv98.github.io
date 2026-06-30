@@ -174,6 +174,12 @@ pre.bib {
     margin-right: 4px;
 }
 
+.venue {
+    color: #585251;
+    font-weight: 700;
+    margin-right: 3px;
+}
+
 /* Visitor map */
 #visitormap {
     margin: 8px 0 4px;
