@@ -64,6 +64,28 @@ hr {
     color: #006400;
 }
 
+#logos {
+    margin-top: 6px;
+    line-height: 0;
+}
+
+#logos a {
+    display: inline-block;
+    margin-right: 14px;
+    margin-bottom: 4px;
+}
+
+#logos img {
+    height: 34px;
+    width: auto;
+    vertical-align: middle;
+    transition: opacity 0.2s;
+}
+
+#logos a:hover img {
+    opacity: 0.6;
+}
+
 div.pub {
     width: 90%;
     margin-left: 5%;
