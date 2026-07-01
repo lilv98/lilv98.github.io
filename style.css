@@ -165,6 +165,10 @@ pre.bib {
     margin: 0 0 6px 0;
 }
 
+.me {
+    font-weight: 800;
+}
+
 .publist li {
     margin-bottom: 13px;
 }
