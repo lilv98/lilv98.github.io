@@ -73,17 +73,17 @@ hr {
 
 .cv-list li {
     display: flex;
-    align-items: flex-start;
+    align-items: center;
     gap: 12px;
     margin-bottom: 12px;
 }
 
 .cv-icon {
-    height: 34px;
-    width: auto;
-    max-width: 260px;
+    height: 36px;
+    width: 104px;
+    object-fit: contain;
+    object-position: left center;
     flex: 0 0 auto;
-    margin-top: 2px;
 }
 
 .cv-text {
