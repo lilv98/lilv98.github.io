@@ -80,9 +80,8 @@ hr {
 
 .cv-icon {
     height: 34px;
-    width: 48px;
-    object-fit: contain;
-    object-position: left center;
+    width: auto;
+    max-width: 170px;
     flex: 0 0 auto;
     margin-top: 2px;
 }
