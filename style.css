@@ -64,31 +64,43 @@ hr {
     color: #006400;
 }
 
-#logos {
-    margin-top: 6px;
-    line-height: 0;
+/* Education / Research Experience entries */
+.cv-list {
+    list-style: none;
+    padding-left: 0;
+    margin: 4px 0 14px;
+}
+
+.cv-list li {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    margin-bottom: 12px;
+}
+
+.cv-icon {
+    height: 34px;
+    width: 48px;
+    object-fit: contain;
+    object-position: left center;
+    flex: 0 0 auto;
+    margin-top: 2px;
+}
+
+.cv-text {
+    flex: 1 1 auto;
+}
+
+.cv-date {
+    color: #666666;
+    font-size: 13px;
+    margin-left: 6px;
     white-space: nowrap;
 }
 
-#logos a {
-    display: inline-block;
-    margin-right: 9px;
-    margin-bottom: 4px;
-}
-
-#logos img {
-    height: 33px;
-    width: auto;
-    vertical-align: middle;
-    transition: opacity 0.2s;
-}
-
-#logos img.big {
-    height: 42px;
-}
-
-#logos a:hover img {
-    opacity: 0.6;
+.cv-sub {
+    color: #585251;
+    font-size: 14px;
 }
 
 div.pub {
@@ -206,11 +218,6 @@ pre.bib {
 
     img#headshot {
         width: 130px;
-    }
-
-    /* Allow the affiliation logos to wrap on narrow screens */
-    #logos {
-        white-space: normal;
     }
 
     /* Keep the nav under the photo readable and left-aligned */
