@@ -28,9 +28,12 @@ strong {
 }
 
 heading {
+    display: block;
     font-family: Source Sans Pro, Helvetica, sans-serif;
     font-size: 15px;
-    font-weight: 700
+    font-weight: 700;
+    margin-top: 34px;
+    margin-bottom: 8px;
 }
 
 ul {
@@ -74,15 +77,15 @@ hr {
 .cv-list li {
     display: flex;
     align-items: center;
-    gap: 12px;
-    margin-bottom: 12px;
+    gap: 14px;
+    margin-bottom: 14px;
 }
 
 .cv-icon {
-    height: 36px;
-    width: 104px;
+    height: 40px;
+    width: 112px;
     object-fit: contain;
-    object-position: left center;
+    object-position: center center;
     flex: 0 0 auto;
 }
 
