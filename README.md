@@ -9,8 +9,6 @@ Static HTML site (no build step), served directly by GitHub Pages.
 - `style.css` — styling
 - `img/` — headshot and assets
 
-Template adapted from the classic Jon Barron / Stephen Bach academic homepage layout.
-
 ## Local preview
 
 ```
